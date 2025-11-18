@@ -1,7 +1,6 @@
 # CADASTRO E LOGIN COM NODEJS
 👨‍🏫FORMULARIO DE CADASTRO E LOGIN EM HTML, CSS, JS (NODEJS) E MYSQL.
 
-<img src="FOTO.png" align="center" width="500"> <br> 
 
 ## DESCRIÇÃO:
 Este aplicativo é um sistema de login e cadastro desenvolvido em Node.js utilizando o framework Express.js para criar o servidor web e o banco de dados MySQL para armazenar informações dos usuários.
