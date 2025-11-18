@@ -83,9 +83,7 @@ Essa simplicidade pode ser uma vantagem em muitos casos, especialmente para inic
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
-- [PROJETO ADAPTADO DA VERSÃO EM PHP](https://github.com/VILHALVA/CADASTRO-E-LOGIN-COM-PHP)
-- [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-
+- [PROJETO ADAPTADO DA VERSÃO EM PHP]
 
 
 
